@@ -179,6 +179,10 @@ body {
     line-height: 1.1;
     margin-left: 10px;
 }
+/* 
+.add__btn:after {
+        content: "\f425";
+} */
 
 .add__btn:active {
     transform: translateY(2px);
